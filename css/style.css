@@ -8,7 +8,7 @@
 }
 
 .fundo{
-    background-image: url('../img/fundo.png');
+    background-image: url('../img/fundo.avif');
     height: 100dvh;
     background-size: 100% 100%;
 }
@@ -21,7 +21,7 @@
 .personagem{
     width: 70px;
     height: 100px;
-    background-image: url('../img/Camada1.png');
+    background-image: url('../img/Imagem1\ \(1\).png');
     background-size: 100% 100%;
     animation: mover 4s linear forwards, animar 0.7s linear forwards infinite;
 }
